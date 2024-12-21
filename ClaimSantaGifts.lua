@@ -16,10 +16,9 @@ local function sendInitialWebhook()
                 type = "rich",
                 color = 65280,
                 fields = {
-                    { name = "Author", value = "This script was made by Destiny (pq3e)", inline = false },
-                    { name = "More Scripts", value = "[Join VirtueHub](https://discord.gg/virtuehub)", inline = false }
+                    { name = "Author", value = "This script was made by alesssio", inline = false },
                 },
-                footer = { text = "Enjoy using the script!", icon_url = "https://cdn.discordapp.com/attachments/1319992989594030126/1320100746745741403/Virtue_Hub_Logo.png?ex=67685f20&is=67670da0&hm=7a35195b0d68c759320751c5720f09c4a4293fd04ff397b6bcb4f8430a5004c8&" }
+                footer = { text = "Enjoy using the script!" }
             }
         }
     }
